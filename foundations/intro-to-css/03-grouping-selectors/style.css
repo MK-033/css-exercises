@@ -1,0 +1,14 @@
+.grayscale,
+.colored {
+  font-size: 28px;
+  font-family: Helvetica "Times New Roman" sans-serif;
+}
+
+.grayscale {
+  background-color: black;
+  color: white;
+}
+
+.colored {
+  background-color: yellow;
+}
